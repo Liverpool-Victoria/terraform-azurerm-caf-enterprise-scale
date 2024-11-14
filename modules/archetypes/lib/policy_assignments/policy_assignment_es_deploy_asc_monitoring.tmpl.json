@@ -17,7 +17,7 @@
         "message": "Microsoft Cloud Security Benchmark {enforcementMode} be met."
       }
     ],
-    "parameters": {},
+    "parameters": null,
     "scope": "${current_scope_resource_id}",
     "notScopes": []
   }
